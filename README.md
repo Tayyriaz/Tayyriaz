@@ -5,7 +5,7 @@
 📊 I love solving real-world problems with machine learning and automation.  
 🌱 Currently exploring LangChain, OpenAI APIs, and real-time data pipelines.  
 💬 Ask me about anything related to Python, ML models, LLMs, or Web Automation.  
-📬 Reach me at **tayyab@example.com** *(replace with real email)*
+📬 Reach me at **tayyab80060@gmail.com** *(replace with real email)*
 
 ---
 
