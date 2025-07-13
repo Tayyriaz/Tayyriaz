@@ -40,17 +40,6 @@
 **Tools**  
 `Jupyter` `Google Colab` `VS Code` `Git` `Linux` `Trello` `Notion`
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tayyriaz&count_private=true&include_all_commits=true&show_icons=true&theme=radical" alt="Tayyab's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyriaz&layout=compact&theme=radical" alt="Top Languages Used" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tayyriaz&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 
 ### 🚀 Highlighted Projects
 
