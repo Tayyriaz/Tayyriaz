@@ -5,7 +5,7 @@
 📊 I love solving real-world problems with machine learning and automation.  
 🌱 Currently exploring LangChain, OpenAI APIs, and real-time data pipelines.  
 💬 Ask me about anything related to Python, ML models, LLMs, or Web Automation.  
-📬 Reach me at **tayyab80060@gmail.com** *(replace with real email)*
+📬 Reach me at **tayyab80060@gmail.com**
 
 ---
 
@@ -55,24 +55,30 @@
 ### 🚀 Highlighted Projects
 
 <p align="center">
-  <a href="https://github.com/Tayyriaz/customer-churn-prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tayyriaz&repo=customer-churn-prediction&theme=radical" />
+
+  <a href="https://github.com/Tayyriaz/Professional-Questionnaire-Platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tayyriaz&repo=Professional-Questionnaire-Platform&theme=radical" />
   </a>
-  
-  <a href="https://github.com/Tayyriaz/real-estate-web-scraper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tayyriaz&repo=real-estate-web-scraper&theme=radical" />
+
+  <a href="https://github.com/Tayyriaz/Pain-intensity-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tayyriaz&repo=Pain-intensity-Detection&theme=radical" />
   </a>
-  
-  <a href="https://github.com/Tayyriaz/mental-health-visualization">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tayyriaz&repo=mental-health-visualization&theme=radical" />
+
+  <a href="https://github.com/Tayyriaz/Callbot_Using_LLM_And_Twillio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tayyriaz&repo=Callbot_Using_LLM_And_Twillio&theme=radical" />
   </a>
+
+  <a href="https://github.com/Tayyriaz/Bas-selfnet-salient-object-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tayyriaz&repo=Bas-selfnet-salient-object-detection&theme=radical" />
+  </a>
+
 </p>
 
 ---
 
 ### 🌍 Let's Connect
 
-<a href="mailto:tayyab@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:tayyab80060@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/tayyab-riaz"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Tayyriaz"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
 
