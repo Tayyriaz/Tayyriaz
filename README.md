@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Tayyab Riaz</h1>
-<h3 align="center">🎓 Data Science Graduate | AI/ML Engineer | Web Scraping Specialist</h3>
+<h3 align="center">🤖 Data Scientist | Computer Vision & Deep Learning Engineer | Power BI Specialist</h3>
 
-🔍 I'm passionate about extracting value from data and building AI-driven solutions.  
-📊 I love solving real-world problems with machine learning and automation.  
+🔍 I build AI-driven solutions that turn raw data into real business impact.  
+📊 Specialized in Machine Learning, Deep Learning, Computer Vision & Data Visualization.  
 🌱 Currently exploring LangChain, OpenAI APIs, and real-time data pipelines.  
-💬 Ask me about anything related to Python, ML models, LLMs, or Web Automation.  
+💬 Ask me about Python, ML/DL models, Computer Vision, or Data Automation.  
 📬 Reach me at **tayyab80060@gmail.com**
 
 ---
 
 ### 🧠 About Me
-
 - 🎓 Graduated in **Data Science**
-- 🔭 Working on intelligent systems like:
-  - Customer Churn Prediction
-  - Web Automation for Real Estate
-  - Mental Health Visualization Dashboard
-- 💡 Building tools with Python, ML, NLP, and APIs
+- 🔭 Currently building intelligent systems like:
+  - Computer Vision & Object Detection Pipelines
+  - Predictive & Time-Series Forecasting Models
+  - Business Intelligence Dashboards (Power BI)
+  - AI Automation & Web Scraping Tools
+- 💡 Focused on delivering models that are production-ready, not just notebooks
 - 🤝 Open to freelance projects, collaborations, and internships
 
 ---
@@ -26,13 +26,21 @@
 **Languages**  
 `Python` `SQL` `JavaScript` `HTML` `CSS` `Java`
 
-**Libraries / Frameworks**  
-`Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`  
-`TensorFlow` `Keras` `OpenCV` `LangChain` `OpenAI API`  
-`FastAPI` `Flask` `Streamlit` `BeautifulSoup` `Selenium` `Scrapy`
+**ML / Deep Learning / Computer Vision**  
+`TensorFlow` `Keras` `PyTorch` `Scikit-learn` `OpenCV` `YOLO`  
+`Hugging Face Transformers` `XGBoost` `LightGBM`
+
+**Data Analysis & Visualization**  
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `Tableau`
+
+**AI / LLM Tools**  
+`LangChain` `OpenAI API` `FastAPI` `Flask` `Streamlit`
+
+**Web Automation / Scraping**  
+`BeautifulSoup` `Selenium` `Scrapy`
 
 **DevOps / Cloud**  
-`Docker` `GitHub Actions` `AWS (S3, EC2)` `CI/CD`
+`Docker` `GitHub Actions` `AWS (S3, EC2)` `Azure ML` `CI/CD`
 
 **Databases**  
 `MySQL` `PostgreSQL` `MongoDB`
@@ -40,27 +48,29 @@
 **Tools**  
 `Jupyter` `Google Colab` `VS Code` `Git` `Linux` `Trello` `Notion`
 
+---
 
 ### 🚀 Highlighted Projects
 
 <p align="center">
-
-  <a href="https://github.com/Tayyriaz/Professional-Questionnaire-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tayyriaz&repo=Professional-Questionnaire-Platform&theme=radical" />
-  </a>
-
-  <a href="https://github.com/Tayyriaz/Pain-intensity-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tayyriaz&repo=Pain-intensity-Detection&theme=radical" />
-  </a>
-
-  <a href="https://github.com/Tayyriaz/Callbot_Using_LLM_And_Twillio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tayyriaz&repo=Callbot_Using_LLM_And_Twillio&theme=radical" />
-  </a>
-
   <a href="https://github.com/Tayyriaz/Bas-selfnet-salient-object-detection">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tayyriaz&repo=Bas-selfnet-salient-object-detection&theme=radical" />
   </a>
-
+  <a href="https://github.com/Tayyriaz/Gesture-Based-Grocery-Basket-System-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tayyriaz&repo=Gesture-Based-Grocery-Basket-System-&theme=radical" />
+  </a>
+  <a href="https://github.com/Tayyriaz/Emotion-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tayyriaz&repo=Emotion-detection&theme=radical" />
+  </a>
+  <a href="https://github.com/Tayyriaz/Real-Time-Drowsiness-Detection-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tayyriaz&repo=Real-Time-Drowsiness-Detection-System&theme=radical" />
+  </a>
+  <a href="https://github.com/Tayyriaz/Pain-intensity-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tayyriaz&repo=Pain-intensity-Detection&theme=radical" />
+  </a>
+  <a href="https://github.com/Tayyriaz/Callbot_Using_LLM_And_Twillio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tayyriaz&repo=Callbot_Using_LLM_And_Twillio&theme=radical" />
+  </a>
 </p>
 
 ---
@@ -73,4 +83,4 @@
 
 ---
 
-> _“Turning data into decisions — one project at a time.”_
+> _"Turning data into decisions — one model at a time."_
